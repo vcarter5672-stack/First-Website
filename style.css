@@ -14,6 +14,9 @@ body {
     width: 100vw; 
     height: 100vh;
     z-index: -1;
-    opacity: 0.5;
-    position: static;
+    opacity: 0.4;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    background-size: 200px auto;
 }
