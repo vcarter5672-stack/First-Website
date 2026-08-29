@@ -6,4 +6,5 @@ body {
     font-family: 'Arial';
     background: #d9c4ec;
     color: rgb(0, 0, 0);
+    background-image: url("/cat.png");
 }
